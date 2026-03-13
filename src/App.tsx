@@ -83,7 +83,7 @@ const whyUs = [
 ];
 
 const steps = [
-  { num: "01", title: "Liên hệ gửi yêu cầu", desc: "Inbox Messenger hoặc Zalo yêu cầu của bạn." },
+  { num: "01", title: "Liên hệ gửi yêu cầu", desc: "Inbox Zalo hoặc gửi yêu cầu của bạn thông qua form" },
   { num: "02", title: "Báo giá nhanh", desc: "Tụi mình sẽ xem xét và báo giá 'hạt dẻ' ngay." },
   { num: "03", title: "Tiến hành thực hiện", desc: "Team bắt tay vào xử lý deadline cho bạn." },
   { num: "04", title: "Gửi file hoàn chỉnh", desc: "Nhận file qua mail/zalo hoặc nhận bản in tận tay." }
