@@ -140,7 +140,7 @@ export default function App() {
               <a href="#dat-dich-vu" className="bg-primary text-white px-8 py-4 rounded-2xl font-bold text-lg hover:scale-105 transition-transform shadow-xl shadow-primary/25 flex items-center gap-2">
                 Đặt dịch vụ ngay <ArrowRight className="w-5 h-5" />
               </a>
-              <a href="#dat-dich-vu" className="bg-white text-primary border-2 border-primary/10 px-8 py-4 rounded-2xl font-bold text-lg hover:bg-slate-50 transition-colors">
+              <a href="#dich-vu" className="bg-white text-primary border-2 border-primary/10 px-8 py-4 rounded-2xl font-bold text-lg hover:bg-slate-50 transition-colors">
                 Xem dịch vụ
               </a>
             </div>
